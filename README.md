@@ -98,11 +98,7 @@ What other approaches could you use? Feel free to program this if you wish.
         "rsquared": 0.850
     }
 
-#### (C) Different input data
-
-1. [Program] Re-run the same analysis as in (A) and (B), but using `data/sample_data_Oct.csv`. 
-
-#### (D) Different date ranges
+#### (C) Different date ranges
 
 1. [Program] Perform the same analysis as in (A) and (B), but over a **26 week period**
 
