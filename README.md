@@ -100,7 +100,7 @@ What other approaches could you use? Feel free to program this if you wish.
 
 #### (C) Different date ranges
 
-1. [Program] Perform the same analysis as in (A) and (B), but over a **26 week period**
+1. [Program] Perform the same analysis as in (A) and (B), but over a **12 week period**
 
 ## Bonus Points!
 2. Provide tests to accompany your python functions. At nugit, we use [unittest](https://docs.python.org/2/library/unittest.html) and [nose](https://nose.readthedocs.org/en/latest/) with [codecoverage](http://www.nedbatchelder.com/code/modules/coverage.html)
